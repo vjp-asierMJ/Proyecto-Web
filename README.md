@@ -11,7 +11,7 @@ Este proyecto es una adaptación de una plantilla profesional de código abierto
 
 ## 🌐 Vista Previa
 
-![Captura de pantalla de EcoPulse Dynamics](img/Portada.webp)
+![Captura de pantalla de EcoPulse Dynamics](/b2-ii-t4-p3-proyecto-ecopulse-dynamics-vjp-asierMJ-develop/img/Portada.webp)
 
 ---
 
